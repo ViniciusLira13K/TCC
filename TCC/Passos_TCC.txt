@@ -1,0 +1,23 @@
+Algoritmo do Caixeiro Viajante Aplicado á Expedição
+
+1. Introdução
+Expedição simples.
+Expedição automatizada
+
+1.1 Objetivos
+Expedição automatizada com algoritmo do caixeiro viajante.
+
+1.2 Divisão do trabalho
+
+2. Fundamentação Teórica
+
+2.1 Roteamento
+2.2 Algoritmo de roteamento
+2.3 Heurística
+2.4 Algoritmo Caixeiro Viajante
+
+3. Desenvolvimento
+
+Tecnologia RFID
+
+

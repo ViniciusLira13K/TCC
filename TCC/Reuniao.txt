@@ -1,0 +1,71 @@
+quimica 
+perecivel 
+inflamavel
+alimenticio 
+
+contar uma historia para a expedição
+
+cadastro de fornecedores
+fornecedor cnpj
+cadastro de produtos
+historico 
+pedido de compra x faturamento de entrada
+ fluxo de compra
+entrada fisica 
+entrada fiscal(
+
+gera inventario de estoque (onde o produto vai endereçado)
+
+caixa da enpresa / cpontas a pagar
+
+precificação do produto ( 
+
+francionalização
+
+26 p 
+
+entrega dedicada
+
+criar algo
+
+entrada 
+
+contas a recceber - tem que ser maior que 
+
+cadastro de fornecedor
+compra pedido de compra
+gera uma ordem de compra
+faturamento de entrada
+quando a mercadoria chegar NF tem que bater com a ordem de compra
+conferencia fisica = quantidade tamanho = estoq x fiscal = contas a pagar descrição toda a parte fiscal
+true
+gera estoque 
+contas a pagar
+
+estoque = aloca no recebimento
+consta no estoque
+disponivel para venda
+
+apos a venda
+transferencia do produto para a expedição
+separação
+vendida
+cadastro de cliente
+vendido para o cliente 
+gera ordem de venda
+gera ordem de separação ()
+
+ordem de venda = NF = valor = contas a receber
+ordem de separa a a mercadoria vendida = fisica
+
+ordem de venda
+
+criar fluxo diagrama
+
+Reencontrar dia 11/09 as 17:30
+minimo de 20 paginas, mandar o tcc na quinta
+
+
+
+
+

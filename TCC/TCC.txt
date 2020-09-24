@@ -1,0 +1,15 @@
+Clayton - segunda 
+tcc (obrigatorio)- referencia - sitação
+
+primeira parte introdução (ideal media 2,3 pg.) e fundamentação(5, 12 pg. ideal media 30)
+
+tema - analizar ferramentas ou implementar metodologias
+
+
+hoje eu trabalho em uma lavanderia e quero fazer um sistema de fluxo de lavagem, mas quero implementar com uma tecnologia que consiga gerenciar, ou ate mesmo mostrar quais clientes deveria lavar para otimizar o processo, algo assim
+
+17/08 a 01/09 - Revisão do TCC
+02/09 a 29/09 - Desenvolvimento do TCC
+30/09 a 27/10 - Resultados e Conclusão
+28/10 a 24/11 - Revisão final, entrega e montagem da apresentação
+30/11 a 04/12 - Banca (provável)
